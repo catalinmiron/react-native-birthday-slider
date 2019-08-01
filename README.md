@@ -12,7 +12,7 @@ Snack: https://snack.expo.io/@catalinmiron/react-native-birthday-slider
 
 ### Youtube tutorial
 
-[![React Native Birthday Slider Youtube tutorial](react-native-animated-birthday-slider.png)](https://youtu.be/hGPnGWwyVNA)
+[![React Native Birthday Slider Youtube tutorial](react-native-animated-birthday-slider.png)](https://www.youtube.com/watch?v=vFtDPVnzFLM)
 
 In this lesson we’re going to be building a **Birthday Animated Slider Picker** in React Native using ScrollView from React Native and Expo for creating the react-native project.
 
